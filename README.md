@@ -1,16 +1,5 @@
-# wave_slider
+# Wave Slider
 
-A new Flutter project.
+![Wave Slider](https://user-images.githubusercontent.com/63968451/163450059-a29a496f-8e60-4525-b640-0ae1183b5acf.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A custom slider made in Flutter, using the CutomPainter class of Flutter, providing you with a smooth wave animation when sliding the slider.
